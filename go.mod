@@ -1,8 +1,9 @@
 module github.com/matm/gocov-html
 
-go 1.12
+go 1.16
 
 require (
 	github.com/axw/gocov v1.1.0
 	github.com/rotisserie/eris v0.5.4 // indirect
+	github.com/stretchr/testify v1.8.1 // indirect
 )
