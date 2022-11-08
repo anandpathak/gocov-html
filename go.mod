@@ -1,4 +1,4 @@
-module github.com/matm/gocov-html
+module github.com/anandpathak/gocov-html
 
 go 1.12
 
